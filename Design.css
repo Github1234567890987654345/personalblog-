@@ -1,0 +1,48 @@
+.myname{
+  text-align: center;
+  font-weight:bold;
+  font-size:70px;
+  color: #45468d;
+  
+}
+.redirect{
+  margin-top: 10px;
+  padding:20px;
+ background-color:#45468d;
+ display:flex;
+padding-left:20px;
+justify-content:space-around;
+}
+.clr{
+  color:#f0f3f4;
+  font-weight:light;
+  font-size:25px;
+}
+.self{
+  padding-right:50px;
+  padding-top:10px;
+font-weight:normal;
+font-size:40px;
+}
+.myself{
+  
+display:flex;
+justify-content:center;
+  border-style:dotted;
+  border-width:4px;
+  border-color:#ebf0f2;
+}
+.img{
+  margin-bottom:150px;
+  padding-top:30px;
+  padding-bottom:45px;
+  padding-right:50px;
+  width:350px;
+  height:350px;
+}
+.abt{
+  font-size:20px;
+  padding-right:13px;
+  padding-top:30px;
+  padding-left:30px;
+}
